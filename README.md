@@ -1,4 +1,4 @@
 ### Setup
-1- run npm i 
-2-  npm start for both client and server side to start the development server
+1- `npm install`<br />
+2-  `npm run start` // for both client and server side to start the development server
 
